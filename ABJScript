@@ -29,3 +29,4 @@ game.StarterGui:SetCore("SendNotification", {
 })
 wait()
 game.Players.LocalPlayer:kick("Script no longer works owner nub script will comeback if he wants to. Thanks for using Nex Hub!")
+end
